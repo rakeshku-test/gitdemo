@@ -101,5 +101,6 @@ module uart_tx
       default: next_state <= IDLE;
     endcase
   end
+//here user1 adds code
 
 endmodule
